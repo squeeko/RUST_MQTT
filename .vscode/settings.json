@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./mqtt-example/Cargo.toml",
+        "./mqtt-example/Cargo.toml",
+        "./mqtt-example/Cargo.toml",
+        "./mqtt-example/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}

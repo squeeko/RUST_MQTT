@@ -1,7 +1,5 @@
 use std::{
-    env,
-    process,
-    time::Duration
+    env
 };
 
 extern crate paho_mqtt as mqtt;
